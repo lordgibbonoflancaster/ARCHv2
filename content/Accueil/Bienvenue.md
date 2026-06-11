@@ -1,8 +1,3 @@
----
-title: Accueil
----
-
-# Bienvenue sur le Wiki !
 
 Voici le wiki de l'univers d'ARCH. Il devra rassembler les éléments d'histoire de l'univers pour empêcher mon oubli personnel.
 
