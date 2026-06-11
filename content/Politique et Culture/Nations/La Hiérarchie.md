@@ -1,3 +1,7 @@
+---
+liens:
+  - "[[Nations]]"
+---
 ___
 - *Classification* : #Nations, [[Nations]]
 - *Période(s)* : [[Ère Archaïque]]

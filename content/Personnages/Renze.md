@@ -1,3 +1,7 @@
+---
+liens:
+  - "[[Personnages]]"
+---
 
 ---
 - *Classification* : #Personnages, [[Personnages]]

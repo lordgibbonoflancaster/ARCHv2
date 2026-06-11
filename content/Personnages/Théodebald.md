@@ -1,6 +1,8 @@
 ---
 aliases:
   - Théo
+liens:
+  - "[[Personnages]]"
 ---
 
 ---

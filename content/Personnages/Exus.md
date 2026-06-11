@@ -1,6 +1,8 @@
 ---
 aliases:
   - La Veuve Pourpre
+liens:
+  - "[[Personnages]]"
 ---
 ---
 - *Classification* : #Personnages, [[Personnages]]

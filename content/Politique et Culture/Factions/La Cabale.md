@@ -1,3 +1,7 @@
+---
+liens:
+  - "[[Factions]]"
+---
 
 ___
 - *Classification* : #Factions, [[Factions]]

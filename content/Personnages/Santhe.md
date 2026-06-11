@@ -4,6 +4,8 @@ aliases:
   - Santhe la Terrible
   - La Criminelle Santhe
   - Barbarie
+liens:
+  - "[[Personnages]]"
 ---
 ---
 - *Classification* : #Personnages, [[Personnages]]
