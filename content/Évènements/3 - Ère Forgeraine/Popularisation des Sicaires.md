@@ -1,9 +1,9 @@
 ---
 liens:
   - "[[Archelaus]]"
-  - "[[Le Phael]]"
+  - "[[Phael]]"
   - "[[Beahe]]"
-  - "[[Kai]]"
+  - "[[Cae]]"
   - "[[Archelans]]"
   - "[[Halekeis Tsy'kar|Alegeus]]"
   - "[[Sicaires]]"

@@ -5,8 +5,8 @@ liens:
   - "[[Archelaus]]"
   - "[[L'Aube]]"
   - "[[Beahe]]"
-  - "[[Kai]]"
-  - "[[Le Phael]]"
+  - "[[Cae]]"
+  - "[[Phael]]"
 aat-render-enabled: true
 timelines:
   - chronologie

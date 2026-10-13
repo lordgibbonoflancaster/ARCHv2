@@ -5,7 +5,7 @@ liens:
   - "[[Humains]]"
   - "[[Archelans]]"
   - "[[Beahe]]"
-  - "[[Le Phael]]"
+  - "[[Phael]]"
   - "[[Réfugiés Humains sur Archelaus]]"
 aat-render-enabled: true
 timelines:

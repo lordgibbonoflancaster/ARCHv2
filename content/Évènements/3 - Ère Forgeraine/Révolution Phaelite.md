@@ -1,7 +1,7 @@
 ---
 liens:
   - "[[Ère Forgeraine]]"
-  - "[[Le Phael]]"
+  - "[[Phael]]"
   - "[[Sicaires]]"
   - "[[Influence d'Alegeus sur la culture Phaelite]]"
 aat-render-enabled: true

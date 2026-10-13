@@ -48,6 +48,7 @@ liens:
 - [[Début de l'oppression des minorités Kai]]: 793 à 806
 - [[Gynarchisation de l'Église de la Paix]]: 793 à 806
 - [[Tentative de Coup d'État par l'Église de la Paix]]: 793
+- [[Grande Mort]]: 794 à 796
 - [[Rébellion Finale]]: 806 à 808
 - [[Tentative d'assassinat de la Gynarque]]: 806
 - [[Gynarchisation des Cités Béaheènnes Nordistes]]: 810 à 1184

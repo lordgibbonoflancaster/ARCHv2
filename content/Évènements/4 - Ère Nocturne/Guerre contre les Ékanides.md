@@ -4,8 +4,8 @@ liens:
   - "[[Archelaus]]"
   - "[[1er Angon]]"
   - "[[Mécanides|Ékanides]]"
-  - "[[Le Phael]]"
-  - "[[Kai]]"
+  - "[[Phael]]"
+  - "[[Cae]]"
   - "[[Beahe]]"
 aat-render-enabled: true
 timelines:

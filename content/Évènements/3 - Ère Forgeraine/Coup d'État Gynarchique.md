@@ -1,6 +1,6 @@
 ---
 liens:
-  - "[[Kai]]"
+  - "[[Cae]]"
   - "[[Archelaus]]"
   - "[[Tentacularisation du parti Gynarchique]]"
   - "[[Ère Forgeraine]]"

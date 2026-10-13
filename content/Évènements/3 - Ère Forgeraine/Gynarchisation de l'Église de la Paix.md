@@ -1,6 +1,6 @@
 ---
 liens:
-  - "[[Kai]]"
+  - "[[Cae]]"
   - "[[Ère Forgeraine]]"
   - "[[Tentacularisation du parti Gynarchique]]"
   - "[[Guerre Civile Kai]]"

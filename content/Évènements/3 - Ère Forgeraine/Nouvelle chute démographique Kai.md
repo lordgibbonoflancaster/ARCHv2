@@ -1,6 +1,6 @@
 ---
 liens:
-  - "[[Kai]]"
+  - "[[Cae]]"
   - "[[Ère Forgeraine]]"
   - "[[Séparatisme des Cités Kai]]"
   - "[[Guerre Civile Kai]]"

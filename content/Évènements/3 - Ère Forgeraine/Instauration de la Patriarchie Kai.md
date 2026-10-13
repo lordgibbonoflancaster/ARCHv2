@@ -1,6 +1,6 @@
 ---
 liens:
-  - "[[Kai]]"
+  - "[[Cae]]"
   - "[[Ère Forgeraine]]"
   - "[[Coup d'État militaire Kai]]"
   - "[[Guerre Civile Kai]]"

@@ -1,7 +1,7 @@
 ---
 liens:
   - "[[Ère Forgeraine]]"
-  - "[[Kai]]"
+  - "[[Cae]]"
   - "[[Relieurs]]"
   - "[[Tentacularisation du parti Gynarchique]]"
   - "[[Guerre Civile Kai]]"

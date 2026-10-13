@@ -3,7 +3,7 @@ liens:
   - "[[Ère Forgeraine]]"
   - "[[Archelaus]]"
   - "[[Halekeis Tsy'kar]]"
-  - "[[Le Phael]]"
+  - "[[Phael]]"
 aat-render-enabled: true
 timelines:
   - chronologie

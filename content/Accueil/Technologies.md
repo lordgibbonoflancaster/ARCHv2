@@ -3,13 +3,13 @@
 
 <!-- QueryToSerialize: LIST FROM #Technologie SORT aat-event-start-date -->
 <!-- SerializedQuery: LIST FROM #Technologie SORT aat-event-start-date -->
-- [[Oru de synthèse]]
 - [[Vipérine]]
 - [[Super-Condensateurs Miniaturisés]]
-- [[Mousquets Magnétiques]]
+- [[Oru de synthèse]]
 - [[Nanites Archelannes]]
-- [[Archae]]
+- [[Mousquets Magnétiques]]
 - [[Crépuscule]]
+- [[Archae]]
 - [[Anneaux Oru]]
 
 <!-- SerializedQuery END -->

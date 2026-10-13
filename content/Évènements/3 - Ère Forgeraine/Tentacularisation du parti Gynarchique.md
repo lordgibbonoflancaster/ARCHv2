@@ -1,7 +1,7 @@
 ---
 liens:
   - "[[Archelaus]]"
-  - "[[Kai]]"
+  - "[[Cae]]"
   - "[[Ère Forgeraine]]"
   - "[[Instauration de la Patriarchie Kai]]"
   - "[[Arazhabat|La Pieuvre]]"

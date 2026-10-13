@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Phael
+  - Le Phael
 liens:
   - "[[Archelaus]]"
   - "[[Archelans]]"

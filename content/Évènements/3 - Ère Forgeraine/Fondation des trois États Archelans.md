@@ -3,9 +3,9 @@ liens:
   - "[[Archelans]]"
   - "[[Archelaus]]"
   - "[[Ère Forgeraine]]"
-  - "[[Kai]]"
+  - "[[Cae]]"
   - "[[Beahe]]"
-  - "[[Le Phael]]"
+  - "[[Phael]]"
 aat-render-enabled: true
 timelines:
   - chronologie

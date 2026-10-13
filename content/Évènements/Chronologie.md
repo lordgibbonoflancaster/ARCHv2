@@ -212,7 +212,7 @@
 <!-- QueryToSerialize: LIST choice(aat-event-end-date, aat-event-start-date + " à " + aat-event-end-date, aat-event-start-date) FROM #Évènement AND [[Ère Lâche]] WHERE file.name != "Évènement" AND file.name != "Évènement Complet" AND file.name != "Évènement - Compat" SORT aat-event-start-date -->
 <!-- SerializedQuery: LIST choice(aat-event-end-date, aat-event-start-date + " à " + aat-event-end-date, aat-event-start-date) FROM #Évènement AND [[Ère Lâche]] WHERE file.name != "Évènement" AND file.name != "Évènement Complet" AND file.name != "Évènement - Compat" SORT aat-event-start-date -->
 - [[Fondation du 3e Royaume Laurelien]]: 1475
-- [[Évènements/6 - Ère Lâche/Second Génocide Archelan.md|Second Génocide Archelan]]: 1475 à 1484
+- [[WIKI/Évènements/6 - Ère Lâche/Second Génocide Archelan|Second Génocide Archelan]]: 1475 à 1484
 - [[Troisième Génocide Archelan]]: 1475 à 1484
 - [[Grand Conditionnement Humain]]: 1476 à 1484
 - [[Libération de la Veuve Pourpre]]: 1480
@@ -325,7 +325,7 @@
 - [[Grandes Pénuries]]: 825 à 827
 - [[Grande Expansion]]: 825 à 828
 - [[Pogroms Archelans dans La Forge]]: 826 à 827
-- [[Évènements/3 - Ère Forgeraine/Second Génocide Archelan.md|Second Génocide Archelan]]: 827
+- [[WIKI/Évènements/3 - Ère Forgeraine/Second Génocide Archelan|Second Génocide Archelan]]: 827
 - [[Arrivée d'Alegeus sur Archelaus]]: 827
 - [[Influence d'Alegeus sur la culture Phaelite]]: 828 à 835
 - [[Popularisation des Sicaires]]: 833
@@ -398,9 +398,9 @@
 - [[Nomination de la 5e Angonne]]: 1400
 - [[Fondation de l'Ost d'Or]]: 1400
 - [[Création de Synthèse]]: 1400
+- [[Tremblements de terre massifs]]: 1401
 - [[Mort de Sythèse]]: 1401
 - [[Mort de la 5e Angonne]]: 1401
-- [[Tremblements de terre massifs]]: 1401
 - [[Création de l’Orfèvre]]: 1410
 - [[La future 6e Angonne élabore Le Pourfendeur]]: 1423
 - [[L'Orfèvre crée sa première forme physique]]: 1423
@@ -427,7 +427,7 @@
 - [[Bataille des torrents]]: 1474
 - [[Bataille des roches célèstes]]: 1474
 - [[Troisième Génocide Archelan]]: 1475 à 1484
-- [[Évènements/6 - Ère Lâche/Second Génocide Archelan.md|Second Génocide Archelan]]: 1475 à 1484
+- [[WIKI/Évènements/6 - Ère Lâche/Second Génocide Archelan|Second Génocide Archelan]]: 1475 à 1484
 - [[Fondation du 3e Royaume Laurelien]]: 1475
 - [[Massacre des Roses Sanguines]]: 1475
 - [[Massacre de l’Orée Carmin]]: 1475

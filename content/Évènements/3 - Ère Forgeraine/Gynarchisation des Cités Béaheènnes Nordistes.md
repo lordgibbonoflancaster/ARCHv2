@@ -1,6 +1,6 @@
 ---
 liens:
-  - "[[Kai]]"
+  - "[[Cae]]"
   - "[[Archelaus]]"
   - "[[Beahe]]"
   - "[[Tentacularisation du parti Gynarchique]]"

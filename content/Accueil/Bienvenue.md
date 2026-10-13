@@ -1,7 +1,19 @@
 
+![[ARCH.png]]
+
 Voici le wiki de l'univers d'ARCH. Il devra rassembler les éléments d'histoire de l'univers pour empêcher mon oubli personnel.
 
-![[ARCH.png]]
+Beaucoup des pages sont encore vides car je n'ai pas encore pu vider ma tête dedans, mais voici une liste de quelques unes déjà remplies :
+
+- [[Profanateurs]]
+- [[Le Grand-Royaume de Korris]]
+- [[Mécanides]]
+- [[La Forge]]
+- [[Crépuscule]]
+- [[Plans]]
+- [[Halekeis Tsy'kar|Halekeis]]
+
+Sinon, voici le reste du projet par catégories :
 
 # **Catégories**
 
@@ -29,3 +41,6 @@ Voici le wiki de l'univers d'ARCH. Il devra rassembler les éléments d'histoire
 - [[Langues]]
 - [[Statuts]]
 - [[Religions]]
+
+
+*Dernière mise à jour le 13 Octobre*

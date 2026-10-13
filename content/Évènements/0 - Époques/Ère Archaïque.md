@@ -5,6 +5,7 @@ liens:
 ## [[Ère Archaïque]]
 <!-- QueryToSerialize: LIST choice(aat-event-end-date, aat-event-start-date + " à " + aat-event-end-date, aat-event-start-date) FROM #Évènement AND [[Ère Archaïque]] WHERE file.name != "Évènement" AND file.name != "Évènement Complet" AND file.name != "Évènement - Compat" SORT aat-event-start-date -->
 <!-- SerializedQuery: LIST choice(aat-event-end-date, aat-event-start-date + " à " + aat-event-end-date, aat-event-start-date) FROM #Évènement AND [[Ère Archaïque]] WHERE file.name != "Évènement" AND file.name != "Évènement Complet" AND file.name != "Évènement - Compat" SORT aat-event-start-date -->
+- [[Naissance des premiers États Archelans, Humains et Vaals]]: -1044 à -1019
 - [[Petit Conditionnement]]: -1030 à 450
 - [[Ère Œcuménique]]: -535 à -368
 - [[Rejet de son adoration par le petit-Être]]: -373

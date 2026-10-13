@@ -35,11 +35,11 @@ Le premier impact conséquent des Mécanides fut d'abord la fuite précipitée d
 
 ### Impacts sociétaux
 
-Une autre conséquence est l'hyperurbanisation des sociétés Archelannes postsanthiques *(voir [[Le Phael|Phael]], [[Beahe]] et [[Kai]])* jusqu'en 1184, qui se confinaient dans des cités aux murs imprenables. Quiconque tentant d'habiter l'extérieur des cités risquait un jour qu'un ou plusieurs Mécanides rôdant dans le pays viennent le massacrer. Cela freina la centralisation des États archelans de par la difficulté chronique à communiquer et se lier entre les cités.
+Une autre conséquence est l'hyperurbanisation des sociétés Archelannes postsanthiques *(voir [[Phael]], [[Beahe]] et [[Cae]])* jusqu'en 1184, qui se confinaient dans des cités aux murs imprenables. Quiconque tentant d'habiter l'extérieur des cités risquait un jour qu'un ou plusieurs Mécanides rôdant dans le pays viennent le massacrer. Cela freina la centralisation des États archelans de par la difficulté chronique à communiquer et se lier entre les cités.
 
 Ainsi les Archelans durent concevoir un nouveau métier, celui des [[Relieurs]], qui se popularisa vers l'an 31 grâce aux Beahéens. Le rôle des Relieurs était de relier les cités entre elles. Cela aussi au sein même des nations, les Mécanides ne se souciant guère des frontières. Grâce à de grandes caravanes formant souvent des petites armées, les Relieurs permirent le commerce, les échanges postaux, la protection de diplomates et bien d'autres services incontournables à tous les [[Archelans]] de la planète et à leurs organisations politiques ou militaires. Un métier dangereux, mais lucratif.
 
-À force d'œuvrer, les Relieurs dépeuplèrent certaines régions d'Archelaus en Mécanides, notamment le [[Pays Kai]], qui devint de plus en plus sûr à partir de la [[Grande Chasse]] en 318, puis relativement paisible à partir des années 900, la [[Kai|Gynarchie Kai]] ayant comme projet national la pacification de la région, puis son expansion sur les territoires toujours hantés par les Mécanides.
+À force d'œuvrer, les Relieurs dépeuplèrent certaines régions d'Archelaus en Mécanides, notamment le [[Pays Cae]], qui devint de plus en plus sûr à partir de la [[Grande Chasse]] en 318, puis relativement paisible à partir des années 900, la [[Cae|Gynarchie Caesienne]] ayant comme projet national la pacification de la région, puis son expansion sur les territoires toujours hantés par les Mécanides.
 
 ## Comportements
 

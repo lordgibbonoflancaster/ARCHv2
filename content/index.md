@@ -34,3 +34,6 @@ Voici le wiki de l'univers d'ARCH. Il devra rassembler les éléments d'histoire
 - [[Langues]]
 - [[Statuts]]
 - [[Religions]]
+
+
+*Dernière mise à jour le 13 Octobre*
