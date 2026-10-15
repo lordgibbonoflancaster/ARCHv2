@@ -6,7 +6,7 @@ liens:
   - "[[Phael]]"
   - "[[Archelans]]"
   - "[[Relieurs]]"
-  - "[[Guerre Civile Kai]]"
+  - "[[Guerre Civile Caesienne]]"
 aat-render-enabled: true
 timelines:
   - chronologie
@@ -16,4 +16,4 @@ tags:
   - Évènement
   - Changement-politique-ou-culturel
 ---
-Kai défie le pouvoir des Relieurs. En suivant l'exemple de Kai qui défie le pouvoir devenu énorme des Relieurs, les autres États Archelans comprennent que les relieurs ne sont pas tout-puissants.
+Kae défie le pouvoir des Relieurs. En suivant l'exemple de Kae qui défie le pouvoir devenu énorme des Relieurs, les autres États Archelans comprennent que les relieurs ne sont pas tout-puissants.

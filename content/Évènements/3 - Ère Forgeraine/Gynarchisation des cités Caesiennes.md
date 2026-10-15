@@ -2,14 +2,15 @@
 liens:
   - "[[Cae]]"
   - "[[Ère Forgeraine]]"
-  - "[[Séparatisme des Cités Kai]]"
-  - "[[Guerre Civile Kai]]"
+  - "[[Tentacularisation du parti Gynarchique]]"
+  - "[[Guerre Civile Caesienne]]"
 aat-render-enabled: true
 timelines:
   - chronologie
-aat-event-start-date: 790
-aat-event-end-date: 792
+aat-event-start-date: 786
+aat-event-end-date: 788
 tags:
   - Évènement
   - Changement-politique-ou-culturel
+  - Tensions-Escarmouches
 ---

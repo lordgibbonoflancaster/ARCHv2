@@ -43,4 +43,4 @@ Sinon, voici le reste du projet par catégories :
 - [[Religions]]
 
 
-*Dernière mise à jour le 13 Octobre*
+*Dernière mise à jour le 15 Octobre*

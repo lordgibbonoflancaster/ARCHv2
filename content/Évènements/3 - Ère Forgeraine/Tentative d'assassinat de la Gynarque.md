@@ -1,7 +1,7 @@
 ---
 liens:
   - "[[Cae]]"
-  - "[[Guerre Civile Kai]]"
+  - "[[Guerre Civile Caesienne]]"
   - "[[Ère Forgeraine]]"
   - "[[Arazhabat|La Pieuvre]]"
 aat-render-enabled: true

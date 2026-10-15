@@ -3,9 +3,9 @@ liens:
   - "[[Archelaus]]"
   - "[[Cae]]"
   - "[[Ère Forgeraine]]"
-  - "[[Instauration de la Patriarchie Kai]]"
+  - "[[Instauration de la Patriarchie Kae]]"
   - "[[Arazhabat|La Pieuvre]]"
-  - "[[Guerre Civile Kai]]"
+  - "[[Guerre Civile Caesienne]]"
 aat-render-enabled: true
 timelines:
   - chronologie

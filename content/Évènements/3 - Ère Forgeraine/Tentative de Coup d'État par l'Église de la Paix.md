@@ -3,7 +3,7 @@ liens:
   - "[[Cae]]"
   - "[[Ère Forgeraine]]"
   - "[[Archelaus]]"
-  - "[[Guerre Civile Kai]]"
+  - "[[Guerre Civile Caesienne]]"
 aat-render-enabled: true
 timelines:
   - chronologie

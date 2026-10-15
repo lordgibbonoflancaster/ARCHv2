@@ -3,7 +3,7 @@ liens:
   - "[[Cae]]"
   - "[[Tentacularisation du parti Gynarchique]]"
   - "[[Ère Forgeraine]]"
-  - "[[Guerre Civile Kai]]"
+  - "[[Guerre Civile Caesienne]]"
 aat-render-enabled: true
 timelines:
   - chronologie

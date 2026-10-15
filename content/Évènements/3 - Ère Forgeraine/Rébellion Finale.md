@@ -1,7 +1,7 @@
 ---
 liens:
   - "[[Cae]]"
-  - "[[Guerre Civile Kai]]"
+  - "[[Guerre Civile Caesienne]]"
   - "[[Ère Forgeraine]]"
   - "[[Archelaus]]"
   - "[[Tentative d'assassinat de la Gynarque]]"

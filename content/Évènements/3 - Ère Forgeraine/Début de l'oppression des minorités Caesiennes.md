@@ -1,9 +1,8 @@
 ---
 liens:
   - "[[Cae]]"
+  - "[[Guerre Civile Caesienne]]"
   - "[[Ère Forgeraine]]"
-  - "[[Guerre Civile Kai]]"
-  - "[[Tentacularisation du parti Gynarchique]]"
 aat-render-enabled: true
 timelines:
   - chronologie
@@ -12,4 +11,5 @@ aat-event-end-date: 806
 tags:
   - Évènement
   - Changement-politique-ou-culturel
+  - Tensions-Escarmouches
 ---

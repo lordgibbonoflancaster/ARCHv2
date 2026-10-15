@@ -39,7 +39,7 @@ Une autre conséquence est l'hyperurbanisation des sociétés Archelannes postsa
 
 Ainsi les Archelans durent concevoir un nouveau métier, celui des [[Relieurs]], qui se popularisa vers l'an 31 grâce aux Beahéens. Le rôle des Relieurs était de relier les cités entre elles. Cela aussi au sein même des nations, les Mécanides ne se souciant guère des frontières. Grâce à de grandes caravanes formant souvent des petites armées, les Relieurs permirent le commerce, les échanges postaux, la protection de diplomates et bien d'autres services incontournables à tous les [[Archelans]] de la planète et à leurs organisations politiques ou militaires. Un métier dangereux, mais lucratif.
 
-À force d'œuvrer, les Relieurs dépeuplèrent certaines régions d'Archelaus en Mécanides, notamment le [[Pays Cae]], qui devint de plus en plus sûr à partir de la [[Grande Chasse]] en 318, puis relativement paisible à partir des années 900, la [[Cae|Gynarchie Caesienne]] ayant comme projet national la pacification de la région, puis son expansion sur les territoires toujours hantés par les Mécanides.
+À force d'œuvrer, les Relieurs dépeuplèrent certaines régions d'Archelaus en Mécanides, notamment le [[Pays Caesien]], qui devint de plus en plus sûr à partir de la [[Grande Chasse]] en 318, puis relativement paisible à partir des années 900, la [[Cae|Gynarchie Caesienne]] ayant comme projet national la pacification de la région, puis son expansion sur les territoires toujours hantés par les Mécanides.
 
 ## Comportements
 

@@ -4,7 +4,7 @@ liens:
   - "[[Tentacularisation du parti Gynarchique]]"
   - "[[Archelaus]]"
   - "[[Ère Forgeraine]]"
-  - "[[Guerre Civile Kai]]"
+  - "[[Guerre Civile Caesienne]]"
 aat-render-enabled: true
 timelines:
   - chronologie
@@ -13,4 +13,4 @@ tags:
   - Évènement
   - Changement-politique-ou-culturel
 ---
-Début de l'oppression des mâles en Kai.
+Début de l'oppression des mâles en Cae.
