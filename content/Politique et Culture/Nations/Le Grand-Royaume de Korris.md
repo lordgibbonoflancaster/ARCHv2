@@ -27,9 +27,9 @@ Malgré de nombreuses recherches, rares sont les informations sur les débuts du
 
 ## Ascension *(-324 à 0)*
 
-Dès -324, le roi Humain Arcturien, se basant sur des nouveaux Plans lui permettant de concevoir des vaisseaux spatiaux, lance la première conquête planétaire. Jusqu'en -321, le nouvellement nommé "Grand Royaume de l'Humanité" conquiert ses premières planètes, [[Zier|Jirialin]] et [[Bazel]], en éradiquant les espèces qui y vivaient. Le Grand-Royaume se basera ensuite sur ce modèle pour toutes ses autres conquêtes. 
+Dès -324, le roi Humain [[Arcturien]], se basant sur des nouveaux Plans lui permettant de concevoir des vaisseaux spatiaux, lance la première conquête planétaire. Jusqu'en -321, le nouvellement nommé "Grand Royaume de l'Humanité" conquiert ses premières planètes, [[Zier]] et [[Bazel]], en éradiquant les espèces qui y vivaient. Le Grand-Royaume se basera ensuite sur ce modèle pour toutes ses autres conquêtes. 
 
-Malgré la [[Guerre de secession d'Elbasis]] en -24 et des luttes intestines de plus en plus nombreuses, le Grand-Royaume continue sa course en avant, poussé par une noblesse avide de nouvelles terres, de gloire, mais surtout de pouvoir. 
+Malgré la [[Guerre de sécession de Bazel]] en -24 et des luttes intestines de plus en plus nombreuses, le Grand-Royaume continue sa course en avant, poussé par une noblesse avide de nouvelles terres, de gloire, mais surtout de pouvoir. 
 
 C'est en -22 que la nation [[Vaals|vaale]], [[Le Serment]], tente de s'immiscer dans les affaires humaines pour, en principe, empêcher le Grand-Royaume de commercer de l'[[Oru]], dont Le Serment avait le quasi-monopole. Cependant, le Grand-Royaume se défend et dès l'année -20 déclare la guerre aux Vaals lors de la [[Guerre Korrino-Sermentale]], qui se terminera en -14. L'Humanité prendra vite le dessus, et dès -17 commence le génocide vaal. 
 

@@ -3,7 +3,7 @@ liens:
   - "[[Le Serment]]"
   - "[[Le Grand-Royaume de Korris]]"
   - "[[Bazel]]"
-  - "[[Guerre de secession d'Elbasis]]"
+  - "[[Guerre de sécession de Bazel]]"
   - "[[Ère Archaïque]]"
 aat-render-enabled: true
 timelines:

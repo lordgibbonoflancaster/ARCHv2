@@ -11,5 +11,5 @@ aliases:
 - *Affiliation (optionel)* :
 - *Espèce ou origine* : [[Pourfendeurs|Pourfendeuse]]
 - *Date de naissance* : 1423
-- *Date de décès :* 1559 (214 ans)
+- *Date de décès :* 1559 (136 ans)
 ---

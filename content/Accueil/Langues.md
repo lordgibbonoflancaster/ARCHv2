@@ -4,6 +4,12 @@
 <!-- SerializedQuery: LIST FROM #Langues AND [[Ère Archaïque]] SORT aat-event-start-date -->
 - [[Archelan Classique]]
 - [[Archelan Œcuménique]]
+- [[Vaal Archaïque]]
+- [[Vaal Classique]]
+- [[Vaal Vulgaire]]
+- [[Proto-Archelan]]
+- [[Proto-Fal]]
+- [[Vieux Korrisien]]
 
 <!-- SerializedQuery END -->
 
@@ -15,6 +21,9 @@
 - [[Béahéen Austral moyen]]
 - [[Béahéen Central moyen]]
 - [[Caesien Gynarchique]]
+- [[Forgerain Ancien]]
+- [[Forgerain Classique]]
+- [[Forgerain Moyen]]
 - [[Kae Ancien]]
 - [[Kae Patriarcal]]
 - [[Phaelite Ancien]]
@@ -23,6 +32,7 @@
 - [[Vieux Beahéen Central]]
 - [[Vieux Béahéen Austral]]
 - [[Vieux Phaelite]]
+- [[Vieux Korrisien]]
 
 <!-- SerializedQuery END -->
 
@@ -33,6 +43,9 @@
 - [[Béahéen Austral moyen]]
 - [[Béahéen Central moyen]]
 - [[Caesien Gynarchique]]
+- [[Caesien Nocturne]]
+- [[Forgerain Nocturne]]
+- [[Forgerain Tardif]]
 - [[Phaelite moyen]]
 
 <!-- SerializedQuery END -->

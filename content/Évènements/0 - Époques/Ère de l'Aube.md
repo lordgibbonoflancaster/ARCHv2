@@ -2,7 +2,7 @@
 liens:
   - "[[Ères]]"
 ---
-## [[Ère de l'Aube]]
+## [[Ère de l'Aube]] *1324 -> 1475*
 <!-- QueryToSerialize: LIST choice(aat-event-end-date, aat-event-start-date + " à " + aat-event-end-date, aat-event-start-date) FROM #Évènement AND [[Ère de l'Aube]] WHERE file.name != "Évènement" AND file.name != "Évènement Complet" AND file.name != "Évènement - Compat" SORT aat-event-start-date -->
 <!-- SerializedQuery: LIST choice(aat-event-end-date, aat-event-start-date + " à " + aat-event-end-date, aat-event-start-date) FROM #Évènement AND [[Ère de l'Aube]] WHERE file.name != "Évènement" AND file.name != "Évènement Complet" AND file.name != "Évènement - Compat" SORT aat-event-start-date -->
 - [[Amélioration des Conditions de vies Humaines]]: 1324 à 1358
@@ -44,9 +44,9 @@ liens:
 - [[Montée au pouvoir du 7e Angon sur L’Aube]]: 1447
 - [[Fraction d’entre Le Marteau et L’Enclume]]: 1466
 - [[Guerre Civile Forgeraine]]: 1466 à 1470
-- [[2e Résurgence du Crépuscule]]: 1467
 - [[Aube éclipsée]]: 1467
 - [[Le 7e Angon devient esclave de L’Enclume]]: 1467
+- [[3e Résurgence du Crépuscule]]: 1467
 - [[Destruction d’Erish]]: 1469
 - [[Fuite du Marteau vers Archelaus]]: 1469
 - [[Bataille des Pétales ébènes]]: 1470

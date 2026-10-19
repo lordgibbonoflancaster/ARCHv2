@@ -2,7 +2,7 @@
 liens:
   - "[[Ères]]"
 ---
-## [[Ère Nocturne]]
+## [[Ère Nocturne]] *1183 -> 1324*
 <!-- QueryToSerialize: LIST choice(aat-event-end-date, aat-event-start-date + " à " + aat-event-end-date, aat-event-start-date) FROM #Évènement AND [[Ère Nocturne]] WHERE file.name != "Évènement" AND file.name != "Évènement Complet" AND file.name != "Évènement - Compat" SORT aat-event-start-date -->
 <!-- SerializedQuery: LIST choice(aat-event-end-date, aat-event-start-date + " à " + aat-event-end-date, aat-event-start-date) FROM #Évènement AND [[Ère Nocturne]] WHERE file.name != "Évènement" AND file.name != "Évènement Complet" AND file.name != "Évènement - Compat" SORT aat-event-start-date -->
 - [[Industrialisation Béaheènne]]: 841 à 1321
@@ -26,12 +26,12 @@ liens:
 - [[Modernisation du 2e Royaume Laurelien]]: 1236 à 1301
 - [[Redécouverte du cube-artéfact]]: 1236
 - [[Réapparition de la Magie]]: 1236
-- [[1ère Résurgence du Crépuscule]]: 1301
 - [[Destruction de Garin]]: 1301
 - [[Libération du 2e Angon]]: 1301
 - [[Mort de la Magie]]: 1301
 - [[Mort du 2e Angon]]: 1301
 - [[Redisparition du Crépuscule]]: 1301
+- [[2e Résurgence du Crépuscule]]: 1301
 - [[Fondation de Racine]]: 1302
 - [[Réfugiés Humains sur Archelaus]]: 1302
 - [[Ingérence Forgeraine chez Beahe]]: 1304 à 1324

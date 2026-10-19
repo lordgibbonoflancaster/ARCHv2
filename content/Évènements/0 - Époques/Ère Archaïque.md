@@ -2,7 +2,7 @@
 liens:
   - "[[Ères]]"
 ---
-## [[Ère Archaïque]]
+## [[Ère Archaïque]] *-1045 -> 0*
 <!-- QueryToSerialize: LIST choice(aat-event-end-date, aat-event-start-date + " à " + aat-event-end-date, aat-event-start-date) FROM #Évènement AND [[Ère Archaïque]] WHERE file.name != "Évènement" AND file.name != "Évènement Complet" AND file.name != "Évènement - Compat" SORT aat-event-start-date -->
 <!-- SerializedQuery: LIST choice(aat-event-end-date, aat-event-start-date + " à " + aat-event-end-date, aat-event-start-date) FROM #Évènement AND [[Ère Archaïque]] WHERE file.name != "Évènement" AND file.name != "Évènement Complet" AND file.name != "Évènement - Compat" SORT aat-event-start-date -->
 - [[Naissance des premiers États Archelans, Humains et Vaals]]: -1044 à -1019
@@ -13,7 +13,7 @@ liens:
 - [[Conquête planétaire Korrisienne par Arcturien]]: -324 à -321
 - [[Guerre civile aristocratique Archelanne]]: -113 à -104
 - [[Instauration de la Hiérarchie]]: -104
-- [[Guerre de secession d'Elbasis]]: -24 à -19
+- [[Guerre de sécession de Bazel]]: -24 à -19
 - [[Ingérence Sermentale]]: -22 à -19
 - [[Guerre Korrino-Sermentale]]: -20 à -14
 - [[Génocide Vaal]]: -17

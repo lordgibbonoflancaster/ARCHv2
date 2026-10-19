@@ -1,12 +1,12 @@
 ---
 liens:
-  - "[[Éléments Politiques]]"
+  - "[[Institutions Politiques]]"
   - "[[La Forge]]"
   - "[[Garin|Korris]]"
   - "[[Humains]]"
 ---
 ---
-- *Classification* : [[Éléments Politiques]]
+- *Classification* : [[Institutions Politiques]]
 - *Liens* : [[La Forge]], [[Humains]], [[Le Grand-Royaume de Korris|Le Vieux Royaume]]
 - *Période(s)* : [[Ère Forgeraine]]
 - *Localisation* : [[Garin|Korris]], 

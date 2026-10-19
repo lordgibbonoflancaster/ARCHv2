@@ -7,12 +7,16 @@
 - [[Santhe]]
 - [[Renze]]
 - [[Pourfendeuse Carmin]]
+- [[Maskim]]
+- [[Kai]]
 - [[Ja'ar]]
 - [[Halekeis Tsy'kar]]
 - [[Exus]]
 - [[Dardarel]]
-- [[Clément de Tsy'arat]]
 - [[Arthe Khazhail Athanrhi Hakhat]]
+- [[Clément de Tsy'arat]]
 - [[Arfurelle]]
+- [[Arcturien]]
+- [[Akmarna]]
 
 <!-- SerializedQuery END -->

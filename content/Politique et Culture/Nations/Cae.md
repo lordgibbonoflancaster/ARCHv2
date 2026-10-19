@@ -14,12 +14,12 @@ ___
 - *Période(s)* : [[Ère Forgeraine]], [[Ère Nocturne]]
 - *Localisation* : [[Archelaus]]
 - *Autres noms* : Gynarchie Caesienne, Kae
-- *Langues parlées sur son territoire* : [[Kae Ancien]], [[Kae Patriarcal]], [[Caesien Gynarchique]], [[Caesien tardif]]
+- *Langues parlées sur son territoire* : [[Kae Ancien]], [[Kae Patriarcal]], [[Caesien Gynarchique]], [[Caesien Nocturne]]
 - *Territoires un jour conquis, contrôlés ou annexés* : 
 - *Date de début* : 0
 - *Date de fin (optionnel)* : 1324
 ---
-Cae est un État [[Archelaus|Archélaüsien]] ayant existé de l'année **1** à **1347**, soit pendant toute l'[[Ère Forgeraine]] et l'[[Ère Nocturne]]. D'abord nommé Kai, puis Kae, et enfin, à partir des années **800**, Cae.
+Cae est un État [[Archelaus|Archélaüsien]] ayant existé de l'année **1** à **1324**, soit pendant toute l'[[Ère Forgeraine]] et l'[[Ère Nocturne]]. D'abord nommé Kai, puis Kae, et enfin, à partir des années **800**, Cae.
 
 # Géographie
 

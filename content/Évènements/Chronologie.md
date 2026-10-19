@@ -1,5 +1,5 @@
 *Lien vers la frise chronologique (ne fonctionne pas sur navigateur* -> [[Frise Chronologique]]
-## [[Ère Abjecte]]
+## [[Ère Abjecte]] *-200 000 -> -1045*
 <!-- QueryToSerialize: LIST choice(aat-event-end-date, aat-event-start-date + " à " + aat-event-end-date, aat-event-start-date) FROM #Évènement AND [[Ère Abjecte]] WHERE file.name != "Évènement" AND file.name != "Évènement Complet" AND file.name != "Évènement - Compat" SORT aat-event-start-date -->
 <!-- SerializedQuery: LIST choice(aat-event-end-date, aat-event-start-date + " à " + aat-event-end-date, aat-event-start-date) FROM #Évènement AND [[Ère Abjecte]] WHERE file.name != "Évènement" AND file.name != "Évènement Complet" AND file.name != "Évènement - Compat" SORT aat-event-start-date -->
 - [[Disparition de l'Humanité Originelle]]: -200000
@@ -14,7 +14,7 @@
 - [[La Chute]]: -1048 à -1045
 
 <!-- SerializedQuery END -->
-## [[Ère Archaïque]]
+## [[Ère Archaïque]] *-1045 -> 0*
 <!-- QueryToSerialize: LIST choice(aat-event-end-date, aat-event-start-date + " à " + aat-event-end-date, aat-event-start-date) FROM #Évènement AND [[Ère Archaïque]] WHERE file.name != "Évènement" AND file.name != "Évènement Complet" AND file.name != "Évènement - Compat" SORT aat-event-start-date -->
 <!-- SerializedQuery: LIST choice(aat-event-end-date, aat-event-start-date + " à " + aat-event-end-date, aat-event-start-date) FROM #Évènement AND [[Ère Archaïque]] WHERE file.name != "Évènement" AND file.name != "Évènement Complet" AND file.name != "Évènement - Compat" SORT aat-event-start-date -->
 - [[Naissance des premiers États Archelans, Humains et Vaals]]: -1044 à -1019
@@ -25,7 +25,7 @@
 - [[Conquête planétaire Korrisienne par Arcturien]]: -324 à -321
 - [[Guerre civile aristocratique Archelanne]]: -113 à -104
 - [[Instauration de la Hiérarchie]]: -104
-- [[Guerre de secession d'Elbasis]]: -24 à -19
+- [[Guerre de sécession de Bazel]]: -24 à -19
 - [[Ingérence Sermentale]]: -22 à -19
 - [[Guerre Korrino-Sermentale]]: -20 à -14
 - [[Génocide Vaal]]: -17
@@ -37,7 +37,7 @@
 - [[Victoire Pyrrhique de Korris]]: 0
 
 <!-- SerializedQuery END -->
-## [[Ère Forgeraine]]
+## [[Ère Forgeraine]] *0 -> 1183*
 <!-- QueryToSerialize: LIST choice(aat-event-end-date, aat-event-start-date + " à " + aat-event-end-date, aat-event-start-date) FROM #Évènement AND [[Ère Forgeraine]] WHERE file.name != "Évènement" AND file.name != "Évènement Complet" AND file.name != "Évènement - Compat" SORT aat-event-start-date -->
 <!-- SerializedQuery: LIST choice(aat-event-end-date, aat-event-start-date + " à " + aat-event-end-date, aat-event-start-date) FROM #Évènement AND [[Ère Forgeraine]] WHERE file.name != "Évènement" AND file.name != "Évènement Complet" AND file.name != "Évènement - Compat" SORT aat-event-start-date -->
 - [[Fondation de la Forge]]: 0
@@ -59,30 +59,30 @@
 - [[Grande Rupture]]: 300
 - [[Comission d'enquête et refonte d'Interstice]]: 301
 - [[Construction d'Interstice-2]]: 304
-- [[Grande Chasse]]: 318
 - [[Fondations des cités Caesiennes]]: 318 à 450
+- [[Grande Chasse]]: 318
 - [[Patriarcalisation de Kae]]: 318 à 786
 - [[Première chute démographique caesienne]]: 318
 - [[Apogée Béaheènne]]: 335 à 342
 - [[La Frénésie]]: 342
 - [[Rafle d'argent]]: 785 à 796
 - [[Retour d'Alegeus sur Lorus]]: 785
-- [[Gynarchisation des Relieurs Internes]]: 786 à 788
-- [[Tentacularisation du parti Gynarchique]]: 786 à 788
 - [[Coup d'État militaire Caesien]]: 786
 - [[Guerre Civile Caesienne]]: 786 à 808
+- [[Gynarchisation des Relieurs Internes]]: 786 à 788
 - [[Gynarchisation des cités Caesiennes]]: 786 à 788
 - [[Instauration de la Patriarchie Kae]]: 786
+- [[Tentacularisation du parti Gynarchique]]: 786 à 788
 - [[Coup d'État Gynarchique]]: 788
 - [[Égalitarisation]]: 788 à 790
-- [[Séparatisme des Cités Caesiennes]]: 790 à 792
 - [[Seconde chute démographique caesienne]]: 790 à 792
+- [[Séparatisme des Cités Caesiennes]]: 790 à 792
 - [[Gynarchisation des Guildes]]: 791
 - [[Traité de Chair]]: 792
-- [[Gynarchisation de l'Église de la Paix]]: 793 à 806
-- [[Tentative de Coup d'État par l'Église de la Paix]]: 793
 - [[Centralisation du pouvoir Caesien]]: 793 à 806
 - [[Début de l'oppression des minorités Caesiennes]]: 793 à 806
+- [[Gynarchisation de l'Église de la Paix]]: 793 à 806
+- [[Tentative de Coup d'État par l'Église de la Paix]]: 793
 - [[Grande Mort]]: 794 à 796
 - [[Rébellion Finale]]: 806 à 808
 - [[Tentative d'assassinat de la Gynarque]]: 806
@@ -90,7 +90,7 @@
 - [[Grande Expansion]]: 825 à 828
 - [[Grandes Pénuries]]: 825 à 827
 - [[Arrivée d'Alegeus sur Archelaus]]: 827
-- [[WIKI/Évènements/6 - Ère Lâche/Second Génocide Archelan.md|Second Génocide Archelan]]: 827 à 828
+- [[Second Génocide Archelan]]: 827 à 828
 - [[Influence d'Alegeus sur la culture Phaelite]]: 828 à 835
 - [[Boom Scientifique Phaelite]]: 835 à 870
 - [[Industrialisation du Phael]]: 835 à 950
@@ -103,7 +103,7 @@
 
 <!-- SerializedQuery END -->
 
-## [[Ère Nocturne]]
+## [[Ère Nocturne]] *1183 -> 1324*
 <!-- QueryToSerialize: LIST choice(aat-event-end-date, aat-event-start-date + " à " + aat-event-end-date, aat-event-start-date) FROM #Évènement AND [[Ère Nocturne]] WHERE file.name != "Évènement" AND file.name != "Évènement Complet" AND file.name != "Évènement - Compat" SORT aat-event-start-date -->
 <!-- SerializedQuery: LIST choice(aat-event-end-date, aat-event-start-date + " à " + aat-event-end-date, aat-event-start-date) FROM #Évènement AND [[Ère Nocturne]] WHERE file.name != "Évènement" AND file.name != "Évènement Complet" AND file.name != "Évènement - Compat" SORT aat-event-start-date -->
 - [[Industrialisation Béaheènne]]: 841 à 1321
@@ -127,7 +127,7 @@
 - [[Modernisation du 2e Royaume Laurelien]]: 1236 à 1301
 - [[Redécouverte du cube-artéfact]]: 1236
 - [[Réapparition de la Magie]]: 1236
-- [[1ère Résurgence du Crépuscule]]: 1301
+- [[2e Résurgence du Crépuscule]]: 1301
 - [[Destruction de Garin]]: 1301
 - [[Libération du 2e Angon]]: 1301
 - [[Mort de la Magie]]: 1301
@@ -145,7 +145,7 @@
 
 <!-- SerializedQuery END -->
 
-## [[Ère de l'Aube]]
+## [[Ère de l'Aube]] *1324 -> 1475*
 <!-- QueryToSerialize: LIST choice(aat-event-end-date, aat-event-start-date + " à " + aat-event-end-date, aat-event-start-date) FROM #Évènement AND [[Ère de l'Aube]] WHERE file.name != "Évènement" AND file.name != "Évènement Complet" AND file.name != "Évènement - Compat" SORT aat-event-start-date -->
 <!-- SerializedQuery: LIST choice(aat-event-end-date, aat-event-start-date + " à " + aat-event-end-date, aat-event-start-date) FROM #Évènement AND [[Ère de l'Aube]] WHERE file.name != "Évènement" AND file.name != "Évènement Complet" AND file.name != "Évènement - Compat" SORT aat-event-start-date -->
 - [[Amélioration des Conditions de vies Humaines]]: 1324 à 1358
@@ -187,7 +187,7 @@
 - [[Montée au pouvoir du 7e Angon sur L’Aube]]: 1447
 - [[Fraction d’entre Le Marteau et L’Enclume]]: 1466
 - [[Guerre Civile Forgeraine]]: 1466 à 1470
-- [[2e Résurgence du Crépuscule]]: 1467
+- [[3e Résurgence du Crépuscule]]: 1467
 - [[Aube éclipsée]]: 1467
 - [[Le 7e Angon devient esclave de L’Enclume]]: 1467
 - [[Destruction d’Erish]]: 1469
@@ -209,7 +209,7 @@
 
 <!-- SerializedQuery END -->
 
-## [[Ère Lâche]]
+## [[Ère Lâche]] *1475 -> 1559*
 <!-- QueryToSerialize: LIST choice(aat-event-end-date, aat-event-start-date + " à " + aat-event-end-date, aat-event-start-date) FROM #Évènement AND [[Ère Lâche]] WHERE file.name != "Évènement" AND file.name != "Évènement Complet" AND file.name != "Évènement - Compat" SORT aat-event-start-date -->
 <!-- SerializedQuery: LIST choice(aat-event-end-date, aat-event-start-date + " à " + aat-event-end-date, aat-event-start-date) FROM #Évènement AND [[Ère Lâche]] WHERE file.name != "Évènement" AND file.name != "Évènement Complet" AND file.name != "Évènement - Compat" SORT aat-event-start-date -->
 - [[Fondation du 3e Royaume Laurelien]]: 1475
@@ -232,7 +232,7 @@
 
 <!-- SerializedQuery END -->
 
-## [[Ère Laurelienne]]
+## [[Ère Laurelienne]] *1559 -> ?*
 <!-- QueryToSerialize: LIST choice(aat-event-end-date, aat-event-start-date + " à " + aat-event-end-date, aat-event-start-date) FROM #Évènement AND [[Ère Laurelienne]] WHERE file.name != "Évènement" AND file.name != "Évènement Complet" AND file.name != "Évènement - Compat" SORT aat-event-start-date -->
 <!-- SerializedQuery: LIST choice(aat-event-end-date, aat-event-start-date + " à " + aat-event-end-date, aat-event-start-date) FROM #Évènement AND [[Ère Laurelienne]] WHERE file.name != "Évènement" AND file.name != "Évènement Complet" AND file.name != "Évènement - Compat" SORT aat-event-start-date -->
 - [[Laurel reprend en main son royaume]]: 1559 à 1567
@@ -263,7 +263,7 @@
 - [[Conquête planétaire Korrisienne par Arcturien]]: -324 à -321
 - [[Guerre civile aristocratique Archelanne]]: -113 à -104
 - [[Instauration de la Hiérarchie]]: -104
-- [[Guerre de secession d'Elbasis]]: -24 à -19
+- [[Guerre de sécession de Bazel]]: -24 à -19
 - [[Ingérence Sermentale]]: -22 à -19
 - [[Guerre Korrino-Sermentale]]: -20 à -14
 - [[Génocide Vaal]]: -17
@@ -292,42 +292,41 @@
 - [[Bataille des Silences]]: 300
 - [[Comission d'enquête et refonte d'Interstice]]: 301
 - [[Construction d'Interstice-2]]: 304
+- [[Première chute démographique caesienne]]: 318
+- [[Patriarcalisation de Kae]]: 318 à 786
 - [[Grande Chasse]]: 318
 - [[Fondations des cités Caesiennes]]: 318 à 450
-- [[Patriarcalisation de Kae]]: 318 à 786
-- [[Première chute démographique caesienne]]: 318
 - [[Apogée Béaheènne]]: 335 à 342
 - [[Recul de la culture Béaheènne]]: 342 à 448
 - [[La Frénésie]]: 342
 - [[Retour d'Alegeus sur Lorus]]: 785
 - [[Rafle d'argent]]: 785 à 796
-- [[Guerre Civile Caesienne]]: 786 à 808
-- [[Baisse du pouvoir des Relieurs]]: 786 à 790
-- [[Gynarchisation des Relieurs Internes]]: 786 à 788
-- [[Coup d'État militaire Caesien]]: 786
-- [[Gynarchisation des cités Caesiennes]]: 786 à 788
-- [[Instauration de la Patriarchie Kae]]: 786
 - [[Tentacularisation du parti Gynarchique]]: 786 à 788
-- [[Coup d'État Gynarchique]]: 788
+- [[Instauration de la Patriarchie Kae]]: 786
+- [[Gynarchisation des Relieurs Internes]]: 786 à 788
+- [[Gynarchisation des cités Caesiennes]]: 786 à 788
+- [[Guerre Civile Caesienne]]: 786 à 808
+- [[Coup d'État militaire Caesien]]: 786
+- [[Baisse du pouvoir des Relieurs]]: 786 à 790
 - [[Égalitarisation]]: 788 à 790
+- [[Coup d'État Gynarchique]]: 788
 - [[Séparatisme des Cités Caesiennes]]: 790 à 792
 - [[Seconde chute démographique caesienne]]: 790 à 792
 - [[Gynarchisation des Guildes]]: 791
 - [[Traité de Chair]]: 792
-- [[Gynarchisation de l'Église de la Paix]]: 793 à 806
 - [[Tentative de Coup d'État par l'Église de la Paix]]: 793
-- [[Centralisation du pouvoir Caesien]]: 793 à 806
+- [[Gynarchisation de l'Église de la Paix]]: 793 à 806
 - [[Début de l'oppression des minorités Caesiennes]]: 793 à 806
+- [[Centralisation du pouvoir Caesien]]: 793 à 806
 - [[Grande Mort]]: 794 à 796
-- [[Rébellion Finale]]: 806 à 808
 - [[Tentative d'assassinat de la Gynarque]]: 806
+- [[Rébellion Finale]]: 806 à 808
 - [[Gynarchisation des Cités Béaheènnes Nordistes]]: 810 à 1184
 - [[Grandes Pénuries]]: 825 à 827
 - [[Grande Expansion]]: 825 à 828
 - [[Pogroms Archelans dans La Forge]]: 826 à 827
-- [[WIKI/Évènements/3 - Ère Forgeraine/Second Génocide Archelan.md|Second Génocide Archelan]]: 827
+- [[Second Génocide Archelan]]: 827 à 828
 - [[Arrivée d'Alegeus sur Archelaus]]: 827
-- [[WIKI/Évènements/6 - Ère Lâche/Second Génocide Archelan.md|Second Génocide Archelan]]: 827 à 828
 - [[Influence d'Alegeus sur la culture Phaelite]]: 828 à 835
 - [[Popularisation des Sicaires]]: 833
 - [[Révolution Phaelite]]: 835
@@ -363,7 +362,7 @@
 - [[Mort de la Magie]]: 1301
 - [[Libération du 2e Angon]]: 1301
 - [[Destruction de Garin]]: 1301
-- [[1ère Résurgence du Crépuscule]]: 1301
+- [[2e Résurgence du Crépuscule]]: 1301
 - [[Réfugiés Humains sur Archelaus]]: 1302
 - [[Fondation de Racine]]: 1302
 - [[Tensions entre Humains réfugiés et Archelans]]: 1304 à 1377
@@ -376,8 +375,8 @@
 - [[Fondation de l'Aube]]: 1324
 - [[Dégradation des conditions de vies Humaines]]: 1358 à 1376
 - [[Attentat humain]]: 1365
-- [[Sécession du Fer et Création de l'Acier]]: 1370
 - [[Élection du futur 4e Angon comme Premier Archelan]]: 1370
+- [[Sécession du Fer et Création de l'Acier]]: 1370
 - [[Persécutions des Humains]]: 1370 à 1375
 - [[Fondation de l’Empire de l’Aube]]: 1370
 - [[Corruption du Fer]]: 1370 à 1377
@@ -414,7 +413,7 @@
 - [[Fraction d’entre Le Marteau et L’Enclume]]: 1466
 - [[Le 7e Angon devient esclave de L’Enclume]]: 1467
 - [[Aube éclipsée]]: 1467
-- [[2e Résurgence du Crépuscule]]: 1467
+- [[3e Résurgence du Crépuscule]]: 1467
 - [[Fuite du Marteau vers Archelaus]]: 1469
 - [[Destruction d’Erish]]: 1469
 - [[Vitrification du continent d’Ehran]]: 1470
@@ -425,8 +424,8 @@
 - [[Nomination du 8e Angon]]: 1474
 - [[L’Orfèvrerie intègre la Cabale]]: 1474
 - [[Guerre des myriades]]: 1474
-- [[Bataille des roches célèstes]]: 1474
 - [[Bataille des torrents]]: 1474
+- [[Bataille des roches célèstes]]: 1474
 - [[Troisième Génocide Archelan]]: 1475 à 1484
 - [[Fondation du 3e Royaume Laurelien]]: 1475
 - [[Massacre des Roses Sanguines]]: 1475
@@ -437,8 +436,8 @@
 - [[Série de Massacres Sanglants]]: 1480 à 1484
 - [[Libération de la Veuve Pourpre]]: 1480
 - [[Arfurelle pourchasse la Veuve Pourpre]]: 1483
-- [[Période de relâchement de Laurel]]: 1484 à 1559
 - [[Progression de l'Ultra-Libéralisme]]: 1484 à 1559
+- [[Période de relâchement de Laurel]]: 1484 à 1559
 - [[Police de la cohérence]]: 1484 à 1559
 - [[Mort de La Veuve Pourpre]]: 1484
 - [[Conquête des cercles proches de L’Arbre des Mondes]]: 1484 à 1559

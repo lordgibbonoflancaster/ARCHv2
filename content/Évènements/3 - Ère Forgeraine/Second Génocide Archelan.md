@@ -1,17 +1,28 @@
 ---
-liens:
-  - "[[Archelans]]"
-  - "[[La Forge]]"
-  - "[[Erish]]"
-  - "[[Grande Expansion]]"
-  - "[[Pogroms Archelans dans La Forge]]"
-  - "[[Erijis]]"
 aat-render-enabled: true
 timelines:
   - chronologie
 aat-event-start-date: 827
 tags:
   - Évènement
-  - Génocides
+aat-event-end-date: 828
 ---
-La Forge ferme les yeux sur les pogroms, qui finissent par éradiquer les Archelans Forgerains.
+---
+- *Classification* : #Évènement, [[Évènements]], [[Génocides]], [[Destruction]]
+- *Liens* : [[La Forge]]
+- *Période(s)* : [[Ère Forgeraine]]
+- *Localisation(s)* : [[Erish]]
+- *Date de début* : 827
+- *Date de fin (optionnel)* : 828
+---
+
+## Résumé
+
+
+## Contexte
+
+
+## Déroulement
+
+
+## Impact

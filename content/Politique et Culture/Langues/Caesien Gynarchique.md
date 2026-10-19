@@ -6,7 +6,7 @@ ___
 - *Nations et gouvernements concernés* : [[Cae]]
 - *Langue mère* : [[Kae Patriarcal]]
 - *Langues soeurs* : 
-- *Langues filles* :
+- *Langues filles* : [[Caesien Nocturne]]
 - *Influences linguistiques majeures* : [[Langue X]]
 - *Influences linguistiques mineures* : Inconnues
 ---

@@ -1,9 +1,10 @@
 ---
 liens:
-  - "[[Concepts]]"
+  - "[[Incohérences]]"
 ---
 ___
-- *Classification* : [[Concepts]]
+- *Classification* : [[Incohérences]]
+- *Liens* :
 ---
 
 
